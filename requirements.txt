@@ -1,0 +1,8 @@
+fastapi
+joblib
+scikit-learn
+streamlit
+uvicorn[standard]
+xgboost
+datasets
+huggingface_hub
